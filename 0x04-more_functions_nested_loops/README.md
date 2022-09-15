@@ -1,0 +1,1 @@
+more functions and more nested loops, but this time we are not allowed to use standard library, we must create out own main.h file, which is compiled of the prototype functions each question has. not allowed to use printf, puts etc.
