@@ -1,0 +1,1 @@
+an extension of the first arrays and strings project. Here we need to be able to explain to anyone what pointers are and how to use them, what arrays are and how to use them. The differences between pointers and arrays, how to use strings and how to manipulate them.
